@@ -24,9 +24,9 @@ JVM：Java 编译器可生成与计算机体系结构无关的字节码指令，
 
 ### Q3: JDK和JRE的区别？
 
-JDK：Java Development Kit，开发工具包。提供了编译运行Java程序的各种工具，包括编译器、JRE及常用类库，是JAVA核心。.
+JDK：Java Development Kit，Java开发工具。提供了编译运行Java程序的各种工具，包括编译器、JRE及常用类库，是JAVA核心。.
 
-JRE：Java Runtime Environment，运行时环境，运行Java程序的必要环境，包括JVM、核心类库、核心配置工具。
+JRE：Java Runtime Environment，Java运行环境。运行Java程序的必要环境，包括JVM、核心类库、核心配置工具。
 
 
 
